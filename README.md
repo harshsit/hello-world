@@ -1,2 +1,3 @@
 # hello-world
-My first repository
+Hi everyone
+I have started working on Android App Development.
